@@ -6,15 +6,15 @@ An aspiring Power BI Data Analyst & AI Automation Associate. I specialize in tur
 🛠️ My Technical Toolkit
 
 Data Visualization & Analytics
-![Power BI](https://shields.io)
-![Excel](https://shields.io)
+![Power BI]
+![Excel]
 
 Database Management
-![SQL](https://shields.io)
+![SQL]
 
 AI & Workflow Automation
-![Voiceflow](https://shields.io)
-![Make](https://shields.io)
+![Voiceflow]
+![Make]
 
 📈 GitHub Statistics
 <p align="left">
@@ -24,7 +24,7 @@ AI & Workflow Automation
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://shields.io)](https://linkedin.com[YOUR-LINKEDIN-URL])
+[![LinkedIn](https://shields.io)](https://linkedin.com[https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mokkapati-vipanchi-sree-samhitha-1069142ab])
 
 
 
