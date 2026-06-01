@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sreesamhitha
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning AID'S
+
 
 
 <!---
